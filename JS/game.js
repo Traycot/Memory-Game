@@ -26,7 +26,7 @@ let secondCard = '';
 const checkEndGame = () => {
   const disabledCards = document.querySelectorAll('.disabled-card');
 
-  if (disabledCards.length === 20) {
+  if (disabledCards.length === 18) {
     clearInterval(this.loop)
     alert(`Parabéns ${spanPlayer.innerHTML}, você conseguiu sobreviver!`);
   }
