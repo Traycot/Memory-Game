@@ -10,7 +10,6 @@ const personagens = [
   'it-balao',
   'it',
   'jason-floresta',
-  'jason',
   'poço',
   'samara',
 ];
